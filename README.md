@@ -1,7 +1,7 @@
 # ticketing
 train ticketing
-
 - KTX
 - SRT
 
-* python
+development
+- python, selenium
